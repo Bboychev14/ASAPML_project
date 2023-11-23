@@ -1,0 +1,24 @@
+id: 2N3901
+width: 7
+height: 3
+pins: (1,1),(3,1),(5,1)
+
+id: 2N3902
+width: 7
+height: 3
+pins: (1,1),(3,1),(5,1)
+
+id: 2N3903
+width: 7
+height: 3
+pins: (1,1),(3,1),(5,1)
+
+id: 2N3904
+width: 7
+height: 3
+pins: (1,1),(3,1),(5,1)
+
+id: 2N3905
+width: 7
+height: 3
+pins: (1,1),(3,1),(5,1)

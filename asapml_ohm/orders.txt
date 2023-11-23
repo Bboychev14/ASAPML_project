@@ -1,0 +1,27 @@
+# [Component Name]
+# [Client]
+# [Priority]
+
+Component 1
+Client 1
+High
+
+Component 2
+Client 2
+Medium
+
+Component 3
+Client 3
+Low
+
+Component 4
+Client 4
+High
+
+Component 5
+Client 5
+Medium
+
+Component 6
+Client 6
+Low

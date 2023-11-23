@@ -1,0 +1,39 @@
+id: Darlington_Pair_0
+width: 11
+height: 7
+components:
+2N3904: (0,0),0
+2N3904: (10,0),1
+connections: (1.3,2.2), (1.1,2.1)
+
+id: Darlington_Pair_2
+width: 11
+height: 7
+components:
+2N3904: (0,0),0
+2N3904: (10,0),1
+connections: (1.3,2.2), (1.1,2.1)
+
+id: Darlington_Pair_3
+width: 11
+height: 7
+components:
+2N3904: (0,0),0
+2N3904: (10,0),1
+connections: (1.3,2.2), (1.1,2.1)
+
+id: Darlington_Pair_4
+width: 11
+height: 7
+components:
+2N3904: (0,0),0
+2N3904: (10,0),1
+connections: (1.3,2.2), (1.1,2.1)
+
+id: Darlington_Pair_5
+width: 11
+height: 7
+components:
+2N3904: (0,0),0
+2N3904: (10,0),1
+connections: (1.3,2.2), (1.1,2.1)
